@@ -1,6 +1,6 @@
 {
   "devDependencies": {
     "critical": "^7.2.1",
-    "wrangler": "^3.87.0"
+    "wrangler": "^3.105.1"
   }
 }
